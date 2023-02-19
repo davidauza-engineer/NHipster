@@ -1,0 +1,24 @@
+{
+  "nHipsterApp": {
+    "domain": {
+      "home": {
+        "title": "Domains",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Domain",
+        "createOrEditLabel": "Crear o editar Domain",
+        "notFound": "Ningún Domains encontrado"
+      },
+      "created": "Un nuevo Domain ha sido creado con el identificador {{ param }}",
+      "updated": "Un Domain ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Domain ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Domain {{ id }}?"
+      },
+      "detail": {
+        "title": "Domain"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

@@ -49,6 +49,8 @@
     "cacheProvider": "ehcache",
     "buildTool": "maven",
     "enableHibernateCache": true,
-    "reactive": false
+    "reactive": false,
+    "lastLiquibaseTimestamp": 1676834274000,
+    "entities": ["Domain"]
   }
 }
